@@ -78,6 +78,11 @@ Ce template est générique et adaptable. N'hésitez pas à :
 - Ajouter des exemples de plans
 - Partager vos adaptations
 
+## 📚 Références et sources
+
+### Source principale
+Ce template s'inspire de "Vibe Coder sur Visual Studio Code avec Copilot" par l'équipe Alsacréations, une méthodologie structurée et éprouvée pour le développement assisté par IA.
+
 ## 📄 Licence
 
 MIT - Utilisez librement pour vos projets !
