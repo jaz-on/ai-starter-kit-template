@@ -1,32 +1,32 @@
-# Guide d'intégration - AI Starter Kit
+# Onboarding Guide - AI Starter Kit
 
-## Vue d'ensemble
-Ce template fournit une structure de base pour le développement assisté par IA.
+## Overview
+This template provides a basic structure for AI-assisted development.
 
 ## Installation
-1. Utiliser ce template pour créer un nouveau projet
-2. Choisir votre configuration IA dans `.ai-config/examples/`
-3. Copier la configuration vers votre IDE
-4. Compléter `_context/project-brief.md`
+1. Use this template to create a new project
+2. Choose your AI configuration in `.ai-config/examples/`
+3. Copy configuration to your IDE
+4. Complete `_context/project-brief.md`
 
-## Structure du projet
-- `_docs/` : Documentation du projet
-- `_plans/` : Plans d'implémentation
-- `_context/` : Contexte pour l'IA
-- `src/` : Code source
-- `.ai-config/` : Configurations pour différents IDEs
+## Project Structure
+- `_docs/`: Project documentation
+- `_plans/`: Implementation plans
+- `_context/`: Context for AI
+- `src/`: Source code
+- `.ai-config/`: Configurations for different IDEs
 
-## Workflow de développement
-1. Lire la documentation pertinente
-2. Vérifier l'état actuel dans `_context/`
-3. Créer un plan si nécessaire
-4. Développer avec assistance IA
-5. Mettre à jour la documentation
+## Development Workflow
+1. Read relevant documentation
+2. Check current state in `_context/`
+3. Create a plan if necessary
+4. Develop with AI assistance
+5. Update documentation
 
-## Technologies supportées
-- IDEs : Cursor, VS Code, Windsurf
-- LLMs : Claude, ChatGPT, Copilot
-- Stack : Adaptable selon vos besoins
+## Supported Technologies
+- IDEs: Cursor, VS Code, Windsurf
+- LLMs: Claude, ChatGPT, Copilot
+- Stack: Adaptable to your needs
 
 ---
-*Template AI Starter Kit*
+*AI Starter Kit Template*

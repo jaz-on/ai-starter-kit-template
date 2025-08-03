@@ -8,10 +8,9 @@
 - Use **English** for API documentation and technical specifications
 
 ### For project documentation and context:
-- Use **English** for project briefs, business requirements, and user-facing documentation
-- Use **English** for planning documents and project management
-- Use **English** for user stories and acceptance criteria
-- **Exception**: Use local language (French in our case) for context or documentation if the project is not international or for contributor convenience
+- Use **French** for project briefs, business requirements, and user-facing documentation
+- Use **French** for planning documents and project management
+- Use **French** for user stories and acceptance criteria
 
 ### For AI interactions:
 - **Claude/ChatGPT**: Use the language that best matches your project context
@@ -25,7 +24,7 @@
 | README.md | Bilingual (EN/FR) | English first, then French |
 | INSTRUCTIONS.md | English | Technical instructions |
 | SETUP.md | English | Configuration guides |
-| _context/*.md | English | Project context and briefs |
+| _context/*.md | French | Project context and briefs |
 | _docs/*.md | English | Technical documentation |
 | Code files | English | Comments and documentation |
 | package.json | English | Standard format |
@@ -37,7 +36,6 @@
 2. **Context**: Use the language that best serves the intended audience
 3. **AI Optimization**: Consider which language works best with your AI tools
 4. **Documentation**: Keep language choices documented and consistent across the project
-5. **Flexibility**: Allow local language for convenience when project is not international
 
 ## Migration Guidelines
 

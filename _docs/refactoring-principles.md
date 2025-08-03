@@ -1,30 +1,30 @@
-# Principes de refactoring - AI Starter Kit
+# Refactoring Principles - AI Starter Kit
 
 ## Single Responsibility Principle (SRP)
-Chaque fonction, classe ou module doit avoir une seule raison de changer.
-Les grandes fonctions avec des commentaires inline doivent être décomposées en petites fonctions bien nommées.
+Each function, class or module should have only one reason to change.
+Large functions with inline comments should be broken down into small well-named functions.
 
 ## Don't Repeat Yourself (DRY)
-Éviter la duplication de code. Extraire les parties communes dans des fonctions réutilisables.
+Avoid code duplication. Extract common parts into reusable functions.
 
 ## You Aren't Gonna Need It (YAGNI)
-Ne pas implémenter de fonctionnalités tant qu'elles ne sont pas nécessaires.
+Don't implement features until they are necessary.
 
 ## Keep It Simple, Stupid (KISS)
-Privilégier les solutions simples et compréhensibles.
+Favor simple and understandable solutions.
 
-## Refactoring avec IA
-- Demander à l'IA d'identifier les code smells
-- Utiliser l'IA pour proposer des refactorings
-- Garder le contrôle des décisions architecturales importantes
+## AI-Assisted Refactoring
+- Ask AI to identify code smells
+- Use AI to propose refactorings
+- Keep control of important architectural decisions
 
-## Refactoring continu
-- Refactoriser régulièrement lors du développement
-- Ne pas attendre que le code soit "parfait"
-- Utiliser les tests pour sécuriser les refactorings
+## Continuous Refactoring
+- Refactor regularly during development
+- Don't wait for code to be "perfect"
+- Use tests to secure refactorings
 
-## Signaux d'alarme
-- Fonctions de plus de 50 lignes
-- Code dupliqué
-- Variables mal nommées
-- Commentaires qui expliquent ce que fait le code
+## Warning Signs
+- Functions over 50 lines
+- Duplicated code
+- Poorly named variables
+- Comments that explain what the code does

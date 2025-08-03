@@ -1,18 +1,18 @@
-# Guide de configuration IA
+# AI Configuration Guide
 
 ## Cursor IDE
-1. Copier `.ai-config/examples/cursor-rules/` vers `.cursor/rules/`
-2. Redémarrer Cursor
-3. Les règles seront automatiquement appliquées
+1. Copy `.ai-config/examples/cursor-rules/` to `.cursor/rules/`
+2. Restart Cursor
+3. Rules will be automatically applied
 
 ## VS Code
-1. Copier `.ai-config/examples/vscode-settings/` vers `.vscode/`
-2. Installer les extensions recommandées
-3. Redémarrer VS Code
+1. Copy `.ai-config/examples/vscode-settings/` to `.vscode/`
+2. Install recommended extensions
+3. Restart VS Code
 
 ## Windsurf
-1. Adapter la configuration selon votre setup
-2. Utiliser les fichiers markdown comme référence
+1. Adapt configuration according to your setup
+2. Use markdown files as reference
 
-## Configuration personnalisée
-Modifier les exemples selon vos besoins spécifiques.
+## Custom Configuration
+Modify examples according to your specific needs.

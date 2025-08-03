@@ -1,31 +1,31 @@
-# Conventions de codage - AI Starter Kit
+# Code Style Guidelines - AI Starter Kit
 
-## Règles générales
-- Utiliser des noms de variables descriptifs
-- Fonctions de maximum 50 lignes
-- Un seul niveau d'indentation par fonction quand possible
-- Éviter les commentaires qui répètent le code
+## General Rules
+- Use descriptive variable names
+- Functions maximum 50 lines
+- Single indentation level per function when possible
+- Avoid comments that repeat the code
 
-## Nommage
-- Variables : camelCase
-- Fonctions : camelCase avec verbes d'action
-- Constantes : UPPER_SNAKE_CASE
-- Classes : PascalCase
+## Naming
+- Variables: camelCase
+- Functions: camelCase with action verbs
+- Constants: UPPER_SNAKE_CASE
+- Classes: PascalCase
 
-## Structure des fichiers
-- Maximum 200 lignes par fichier
-- Grouper les imports en haut
-- Exporter en bas du fichier
+## File Structure
+- Maximum 200 lines per file
+- Group imports at the top
+- Export at the bottom of the file
 
-## Commentaires
-- Expliquer le "pourquoi", pas le "comment"
-- Utiliser la documentation standard du langage
-- Éviter les commentaires redondants
+## Comments
+- Explain the "why", not the "how"
+- Use standard language documentation
+- Avoid redundant comments
 
-## Principes pour l'IA
-- Écrire du code auto-documenté
-- Utiliser des noms explicites pour aider l'IA à comprendre le contexte
-- Structurer le code de manière logique pour faciliter l'assistance IA
+## AI Principles
+- Write self-documenting code
+- Use explicit names to help AI understand context
+- Structure code logically to facilitate AI assistance
 
 ---
-*Template générique - à adapter selon votre stack*
+*Generic template - adapt according to your stack*

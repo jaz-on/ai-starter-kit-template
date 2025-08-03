@@ -3,7 +3,7 @@
 Generic template for AI-assisted development.
 
 
-> **Note:** This repository is maintained by a French contributor. For practical reasons, most files are in English to follow industry standards (code in English, technical notes in English, etc.), but the template is designed to support multiple languages for content and prompts. **Adapted approach:** Native language + English standard. **Not adapted:** English-only approach.
+> **Note:** This repository is maintained by a French contributor. For practical reasons, most files are in English to follow industry standards (code in English, technical notes in English, etc.), but the template is designed to support multiple languages for content and prompts. French could be replaced by another language. If you only write/work in/speak English, this template might not be the best fit for your needs.
 ---
 
 ## 📋 Table of Contents

@@ -1,69 +1,70 @@
-# Comment rédiger un plan d'implémentation
+# How to Write an Implementation Plan
 
-## Qu'est-ce qu'un plan d'implémentation ?
-Un plan d'implémentation détaillé pour une fonctionnalité complexe, optimisé pour le développement assisté par IA.
+## What is an Implementation Plan?
+A detailed implementation plan for a complex feature, optimized for AI-assisted development.
 
-## Quand utiliser un plan ?
-- Fonctionnalité complexe touchant plusieurs fichiers
-- Changements architecturaux importants
-- Refactoring majeur
-- Intégration de nouvelles technologies
+## When to Use a Plan?
+- Complex feature affecting multiple files
+- Major architectural changes
+- Major refactoring
+- Integration of new technologies
 
-## Structure d'un plan
+## Plan Structure
 
-### 1. Contexte
-- Problème à résoudre
-- Objectifs de la fonctionnalité
-- Contraintes techniques
+### 1. Context
+- Problem to solve
+- Feature objectives
+- Technical constraints
 
-### 2. Solution proposée
-- Approche technique choisie
-- Alternatives considérées
-- Justification du choix
+### 2. Proposed Solution
+- Chosen technical approach
+- Considered alternatives
+- Choice justification
 
-### 3. Plan d'implémentation
-- Étapes détaillées
-- Fichiers à modifier/créer
-- Dépendances entre les étapes
+### 3. Implementation Plan
+- Detailed steps
+- Files to modify/create
+- Dependencies between steps
 
 ### 4. Tests
-- Stratégie de test
-- Cas de test principaux
-- Tests de régression
+- Test strategy
+- Main test cases
+- Regression tests
 
-### 5. Risques et mitigation
-- Risques identifiés
-- Plans de mitigation
-- Points de rollback
+### 5. Risks and Mitigation
+- Identified risks
+- Mitigation plans
+- Rollback points
 
-## Conseils pour l'IA
-- Soyez spécifique dans les instructions
-- Mentionnez les conventions du projet
-- Référencez la documentation existante
-- Découpez en étapes atomiques
+## AI Tips
+- Be specific in instructions
+- Mention project conventions
+- Reference existing documentation
+- Break down into atomic steps
 
-## Template de plan
-Créer un fichier dans `_plans/` avec cette structure :
+## Plan Template
+Create a file in `_plans/` with this structure:
 
 ```markdown
-# Plan : [Nom de la fonctionnalité]
+# Plan: [Feature Name]
 
-## Contexte
-[Description du problème]
+## Context
+[Problem description]
 
 ## Solution
-[Approche choisie]
+[Chosen approach]
 
-## Étapes d'implémentation
-1. [Étape 1]
-2. [Étape 2]
+## Implementation Steps
+1. [Step 1]
+2. [Step 2]
 3. [etc.]
 
-## Tests requis
+## Required Tests
 - [Test 1]
 - [Test 2]
 
 ## Validation
-- [ ] Fonctionnalité implémentée
-- [ ] Tests passent
-- [ ] Documentation mise à jour
+- [ ] Feature implemented
+- [ ] Tests pass
+- [ ] Documentation updated
+```

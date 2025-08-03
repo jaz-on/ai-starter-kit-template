@@ -1,27 +1,27 @@
-# Brief du projet: [NomDuProjet]
+# Project Brief: [ProjectName]
 
-## Objectif principal
-[Décrire en quelques phrases l'objectif du projet]
+## Main Objective
+[Describe the project objective in a few sentences]
 
-## Contexte
-[Expliquer pourquoi ce projet existe]
+## Context
+[Explain why this project exists]
 
-## Contraintes
-- Délais : [si applicable]
-- Technologies imposées : [si applicable]
-- Limitations : [si applicable]
+## Constraints
+- Deadlines: [if applicable]
+- Imposed technologies: [if applicable]
+- Limitations: [if applicable]
 
-## Définition du succès
-[Comment savoir que le projet est réussi]
+## Success Definition
+[How to know the project is successful]
 
-## Utilisateurs cibles
-[Qui va utiliser ce projet]
+## Target Users
+[Who will use this project]
 
-## Fonctionnalités principales
-1. [Fonctionnalité 1]
-2. [Fonctionnalité 2]
+## Main Features
+1. [Feature 1]
+2. [Feature 2]
 3. [etc.]
 
 ---
-*Créé le : [date]*
-*Dernière mise à jour : [date]*
+*Created on: [date]*
+*Last updated: [date]*

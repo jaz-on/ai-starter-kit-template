@@ -1,26 +1,26 @@
-# Prochaines étapes: [NomDuProjet]
+# Next Steps: [ProjectName]
 
-## Priorité 1 (Urgent)
-- [ ] Compléter le project-brief.md avec les détails du projet
-- [ ] Choisir et configurer l'IDE préféré
-- [ ] Définir la stack technique
+## Priority 1 (Urgent)
+- [ ] Complete project-brief.md with project details
+- [ ] Choose and configure preferred IDE
+- [ ] Define technical stack
 
-## Priorité 2 (Important)
-- [ ] Mettre en place la structure de base du code
-- [ ] Configurer les outils de développement
-- [ ] Écrire les premiers tests
+## Priority 2 (Important)
+- [ ] Set up basic code structure
+- [ ] Configure development tools
+- [ ] Write first tests
 
-## Priorité 3 (Souhaitable)
-- [ ] Optimiser la configuration IA
-- [ ] Améliorer la documentation
-- [ ] Mettre en place la CI/CD
+## Priority 3 (Desirable)
+- [ ] Optimize AI configuration
+- [ ] Improve documentation
+- [ ] Set up CI/CD
 
-## Idées pour plus tard
-- [À compléter selon les besoins]
+## Ideas for Later
+- [To be completed based on needs]
 
-## Décisions en attente
-- Choix de la stack technique : [options à discuter]
-- Architecture : [approches possibles]
+## Pending Decisions
+- Technical stack choice: [options to discuss]
+- Architecture: [possible approaches]
 
 ---
-*Dernière mise à jour : [date]*
+*Last updated: [date]*
