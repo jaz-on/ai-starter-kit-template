@@ -1,57 +1,57 @@
-# 🤖 Configuration IA pour le développement
+# 🤖 AI Configuration for Development
 
-## 🎯 Choisissez votre configuration
+## 🎯 Choose your configuration
 
-### IDEs populaires
+### Popular IDEs
 
-#### Cursor IDE (recommandé pour l'IA)
+#### Cursor IDE (recommended for AI)
 ```bash
-# Copier la configuration Cursor
+# Copy Cursor configuration
 cp -r .ai-config/examples/cursor-rules/ .cursor/rules/
 ```
-- ✅ Intelligence artificielle intégrée
-- ✅ Compréhension de contexte multi-fichiers
-- ✅ Configuration avec fichiers `.mdc`
+- ✅ Integrated artificial intelligence
+- ✅ Multi-file context understanding
+- ✅ Configuration with `.mdc` files
 
 #### VS Code + Copilot
 ```bash
-# Copier la configuration VS Code
+# Copy VS Code configuration
 cp -r .ai-config/examples/vscode-settings/ .vscode/
 ```
-- ✅ Large écosystème d'extensions
-- ✅ GitHub Copilot intégré
-- ✅ Configuration avec `settings.json`
+- ✅ Large extension ecosystem
+- ✅ Integrated GitHub Copilot
+- ✅ Configuration with `settings.json`
 
-#### Windsurf (nouveau)
+#### Windsurf (new)
 ```bash
-# Adapter selon votre configuration Windsurf
-# Voir .ai-config/examples/windsurf-rules/
+# Adapt according to your Windsurf configuration
+# See .ai-config/examples/windsurf-rules/
 ```
 
-### LLMs populaires
+### Popular LLMs
 
 #### Claude (Anthropic)
-- Lire `_context/` comme contexte
-- Utiliser `INSTRUCTIONS.md` comme guide
-- Excellent pour planification et architecture
+- Read `_context/` as context
+- Use `INSTRUCTIONS.md` as guide
+- Excellent for planning and architecture
 
 #### ChatGPT (OpenAI)  
-- Adapter les prompts dans `_context/`
-- Peut lire les fichiers du projet
-- Bon pour debugging et optimisation
+- Adapt prompts in `_context/`
+- Can read project files
+- Good for debugging and optimization
 
 #### GitHub Copilot
-- Utilise la documentation comme contexte automatiquement
-- Suggestions inline dans l'IDE
-- Intégration native avec VS Code
+- Uses documentation as context automatically
+- Inline suggestions in IDE
+- Native integration with VS Code
 
-## 🚀 Configuration rapide
+## 🚀 Quick Configuration
 
-### Étape 1 : Choisir l'IDE
-Copiez la configuration de votre IDE depuis `.ai-config/examples/`
+### Step 1: Choose IDE
+Copy your IDE configuration from `.ai-config/examples/`
 
-### Étape 2 : Adapter le contexte
-Modifiez `_context/project-brief.md` avec votre projet
+### Step 2: Adapt context
+Modify `_context/project-brief.md` with your project
 
-### Étape 3 : Commencer à développer
-Votre IA aura accès à toute la documentation structurée !
+### Step 3: Start developing
+Your AI will have access to all structured documentation!
