@@ -7,9 +7,9 @@ AI Starter Kit template initialized, ready for development.
 - [date]: Template initialization with generic structure
 
 ## Implemented Features
-- ✅ Template structure created
-- ✅ Configuration examples for different IDEs
-- 🚧 [First feature to develop]
+- - Template structure created
+- - Configuration examples for different IDEs
+- [WIP] [First feature to develop]
 
 ## Known Issues
 None at the moment.

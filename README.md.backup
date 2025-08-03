@@ -6,42 +6,42 @@ Generic template for AI-assisted development.
 > **Note:** This repository is maintained by a French contributor. For practical reasons, most files are in English to follow industry standards (code in English, technical notes in English, etc.), but the template is designed to support multiple languages for content and prompts. French could be replaced by another language. If you only write/work in/speak English, this template might not be the best fit for your needs.
 ---
 
-## Table of Contents Table of Contents
+## 📋 Table of Contents
 
 - [AI Starter Kit Template](#ai-starter-kit-template)
-  - [Table of Contents Table of Contents](#-table-of-contents)
+  - [📋 Table of Contents](#-table-of-contents)
 - [English Version](#english-version)
-  - [Quick Start Quick Start](#-quick-start)
-  - [Project Structure Project Structure](#-project-structure)
-  - [AI-Assisted Development AI-Assisted Development](#-ai-assisted-development)
+  - [🚀 Quick Start](#-quick-start)
+  - [📁 Project Structure](#-project-structure)
+  - [🤖 AI-Assisted Development](#-ai-assisted-development)
     - [IDEs](#ides)
     - [LLMs](#llms)
-  - [Documentation Documentation](#-documentation)
-  - [Features Features](#-features)
-  - [Usage Usage](#-usage)
+  - [📚 Documentation](#-documentation)
+  - [🛠 Features](#-features)
+  - [🎯 Usage](#-usage)
     - [Creating a new project](#creating-a-new-project)
     - [Cursor configuration](#cursor-configuration)
     - [VS Code configuration](#vs-code-configuration)
-  - [Contributing Contributing](#-contributing)
-  - [Documentation References](#-references)
+  - [🤝 Contributing](#-contributing)
+  - [📚 References](#-references)
     - [Primary source](#primary-source)
-  - [License License](#-license)
+  - [📄 License](#-license)
 - [Version Française](#version-française)
-  - [Quick Start Démarrage rapide](#-démarrage-rapide)
-  - [Project Structure Structure du projet](#-structure-du-projet)
-  - [AI-Assisted Development Développement assisté par IA](#-développement-assisté-par-ia)
+  - [🚀 Démarrage rapide](#-démarrage-rapide)
+  - [📁 Structure du projet](#-structure-du-projet)
+  - [🤖 Développement assisté par IA](#-développement-assisté-par-ia)
     - [IDEs](#ides-1)
     - [LLMs](#llms-1)
-  - [Documentation Documentation](#-documentation-1)
-  - [Features Fonctionnalités](#-fonctionnalités)
-  - [Usage Utilisation](#-utilisation)
+  - [📚 Documentation](#-documentation-1)
+  - [🛠 Fonctionnalités](#-fonctionnalités)
+  - [🎯 Utilisation](#-utilisation)
     - [Création d'un nouveau projet](#création-dun-nouveau-projet)
     - [Configuration Cursor](#configuration-cursor)
     - [Configuration VS Code](#configuration-vs-code)
-  - [Contributing Contribution](#-contribution)
-  - [Documentation Références](#-références)
+  - [🤝 Contribution](#-contribution)
+  - [📚 Références](#-références)
     - [Source principale](#source-principale)
-  - [License Licence](#-licence)
+  - [📄 Licence](#-licence)
 
 ---
 
@@ -49,14 +49,14 @@ Generic template for AI-assisted development.
 
 Generic template for AI-assisted development.
 
-## Quick Start Quick Start
+## 🚀 Quick Start
 
 1. **Use this template** : Click "Use this template" on GitHub
 2. **Choose your configuration** : See `SETUP.md`
 3. **Configure your IDE** : Copy from `.ai-config/examples/`
 4. **Start developing** !
 
-## Project Structure Project Structure
+## 📁 Project Structure
 
 ```
 ai-starter-kit/
@@ -70,7 +70,7 @@ ai-starter-kit/
 └── SETUP.md              # Configuration guide
 ```
 
-## AI-Assisted Development AI-Assisted Development
+## 🤖 AI-Assisted Development
 
 This template is optimized to work with :
 
@@ -84,22 +84,22 @@ This template is optimized to work with :
 - **ChatGPT** - Versatile and accessible
 - **GitHub Copilot** - Native integration
 
-## Documentation Documentation
+## 📚 Documentation
 
 - [`SETUP.md`](SETUP.md) : Configuration guide
 - [`_docs/onboarding.md`](_docs/onboarding.md) : Integration guide
 - [`_context/project-brief.md`](_context/project-brief.md) : Project brief
 
-## Features Features
+## 🛠 Features
 
-- - Universal project structure
-- - Multi-IDE configurations
-- - AI-optimized documentation
-- - Standardized workflow
-- - Plan templates
-- - Persistent context management
+- ✅ Universal project structure
+- ✅ Multi-IDE configurations
+- ✅ AI-optimized documentation
+- ✅ Standardized workflow
+- ✅ Plan templates
+- ✅ Persistent context management
 
-## Usage Usage
+## 🎯 Usage
 
 ### Creating a new project
 ```bash
@@ -117,7 +117,7 @@ cp -r .ai-config/examples/cursor-rules/ .cursor/rules/
 cp -r .ai-config/examples/vscode-settings/ .vscode/
 ```
 
-## Contributing Contributing
+## 🤝 Contributing
 
 This template is generic and adaptable. Feel free to :
 - Propose new IDE configurations
@@ -125,12 +125,12 @@ This template is generic and adaptable. Feel free to :
 - Add plan examples
 - Share your adaptations
 
-## Documentation References
+## 📚 References
 
 ### Primary source
 This template is inspired by ["Vibe Coder sur Visual Studio Code avec Copilot"](https://www.alsacreations.com/tuto/lire/1956-Vibe-Coder-sur-Visual-Studio-Code-avec-Copilot.html) (post in French) by the Alsacréations team, a structured and proven methodology for AI-assisted development.
 
-## License License
+## 📄 License
 
 MIT - Use freely for your projects !
 
@@ -140,14 +140,14 @@ MIT - Use freely for your projects !
 
 Template générique pour le développement assisté par intelligence artificielle.
 
-## Quick Start Démarrage rapide
+## 🚀 Démarrage rapide
 
 1. **Utiliser ce template** : Cliquer sur "Use this template" sur GitHub
 2. **Choisir votre configuration** : Voir `SETUP.md`
 3. **Configurer votre IDE** : Copier depuis `.ai-config/examples/`
 4. **Commencer à développer** !
 
-## Project Structure Structure du projet
+## 📁 Structure du projet
 
 ```
 ai-starter-kit/
@@ -161,7 +161,7 @@ ai-starter-kit/
 └── SETUP.md              # Guide de configuration
 ```
 
-## AI-Assisted Development Développement assisté par IA
+## 🤖 Développement assisté par IA
 
 Ce template est optimisé pour travailler avec :
 
@@ -175,22 +175,22 @@ Ce template est optimisé pour travailler avec :
 - **ChatGPT** - Polyvalent et accessible
 - **GitHub Copilot** - Intégration native
 
-## Documentation Documentation
+## 📚 Documentation
 
 - [`SETUP.md`](SETUP.md) : Guide de configuration
 - [`_docs/onboarding.md`](_docs/onboarding.md) : Guide d'intégration
 - [`_context/project-brief.md`](_context/project-brief.md) : Brief du projet
 
-## Features Fonctionnalités
+## 🛠 Fonctionnalités
 
-- - Structure projet universelle
-- - Configurations multi-IDEs
-- - Documentation optimisée IA
-- - Workflow standardisé
-- - Templates de plans
-- - Gestion de contexte persistant
+- ✅ Structure projet universelle
+- ✅ Configurations multi-IDEs
+- ✅ Documentation optimisée IA
+- ✅ Workflow standardisé
+- ✅ Templates de plans
+- ✅ Gestion de contexte persistant
 
-## Usage Utilisation
+## 🎯 Utilisation
 
 ### Création d'un nouveau projet
 ```bash
@@ -208,7 +208,7 @@ cp -r .ai-config/examples/cursor-rules/ .cursor/rules/
 cp -r .ai-config/examples/vscode-settings/ .vscode/
 ```
 
-## Contributing Contribution
+## 🤝 Contribution
 
 Ce template est générique et adaptable. N'hésitez pas à :
 - Proposer de nouvelles configurations IDE
@@ -216,12 +216,12 @@ Ce template est générique et adaptable. N'hésitez pas à :
 - Ajouter des exemples de plans
 - Partager vos adaptations
 
-## Documentation Références
+## 📚 Références
 
 ### Source principale
 Ce template s'inspire de ["Vibe Coder sur Visual Studio Code avec Copilot"](https://www.alsacreations.com/tuto/lire/1956-Vibe-Coder-sur-Visual-Studio-Code-avec-Copilot.html) par l'équipe Alsacréations, une méthodologie structurée et éprouvée pour le développement assisté par IA.
 
-## License Licence
+## 📄 Licence
 
 MIT - Utilisez librement pour vos projets !
 

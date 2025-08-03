@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-console.log('Configuration AI Starter Kit Template Configuration AI Starter Kit Template');
+console.log('🤖 Configuration AI Starter Kit Template');
 console.log('=====================================\n');
 
 // Vérifier si les dossiers de configuration existent
@@ -14,22 +14,22 @@ const configDirs = [
   '.ai-config/examples/windsurf-rules'
 ];
 
-console.log('Vérification de la structure Vérification de la structure...');
+console.log('📁 Vérification de la structure...');
 configDirs.forEach(dir => {
   if (fs.existsSync(dir)) {
-    console.log(`OK ${dir}`);
+    console.log(`✅ ${dir}`);
   } else {
-    console.log(`MISSING ${dir} - À créer`);
+    console.log(`❌ ${dir} - À créer`);
   }
 });
 
-console.log('\nProchaines étapes Prochaines étapes :');
+console.log('\n🚀 Prochaines étapes :');
 console.log('1. Choisir votre IDE (Cursor, VS Code, Windsurf)');
 console.log('2. Copier la configuration depuis .ai-config/examples/');
 console.log('3. Modifier _context/project-brief.md avec votre projet');
 console.log('4. Commencer à développer !');
 
-console.log('\nDocumentation Documentation :');
+console.log('\n📚 Documentation :');
 console.log('- SETUP.md : Guide de configuration');
 console.log('- _docs/onboarding.md : Guide d\'intégration');
 console.log('- _context/project-brief.md : Brief du projet');

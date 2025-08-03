@@ -1,28 +1,28 @@
-# État actuel du projet: [NomDuProjet]
+# Current Project State: [ProjectName]
 
-## Statut global
-Template AI Starter Kit initialisé, prêt pour le développement.
+## Global Status
+AI Starter Kit template initialized, ready for development.
 
-## Dernières modifications
-- [date] : Initialisation du template avec structure générique
+## Recent Changes
+- [date]: Template initialization with generic structure
 
-## Fonctionnalités implémentées
-- ✅ Structure de template créée
-- ✅ Exemples de configuration pour différents IDEs
-- 🚧 [Première fonctionnalité à développer]
+## Implemented Features
+- ✅ Template structure created
+- ✅ Configuration examples for different IDEs
+- 🚧 [First feature to develop]
 
-## Problèmes connus
-Aucun pour le moment.
+## Known Issues
+None at the moment.
 
-## Architecture actuelle
-Template générique pour développement assisté par IA, avec exemples de configuration pour Cursor, VS Code et autres IDEs.
+## Current Architecture
+Generic template for AI-assisted development, with configuration examples for Cursor, VS Code and other IDEs.
 
-## Fichiers importants
-- `INSTRUCTIONS.md` : Point d'entrée pour l'IA
-- `SETUP.md` : Guide de configuration
-- `_context/project-brief.md` : Contexte du projet
-- `.ai-config/examples/` : Exemples de configuration
+## Important Files
+- `INSTRUCTIONS.md`: Entry point for AI
+- `SETUP.md`: Configuration guide
+- `_context/project-brief.md`: Project context
+- `.ai-config/examples/`: Configuration examples
 
 ---
-*Dernière mise à jour : [date]*
-*Mise à jour par : Template initialization*
+*Last updated: [date]*
+*Updated by: Template initialization*

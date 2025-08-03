@@ -1,6 +1,6 @@
-# AI Configuration for Development AI Configuration for Development
+# 🤖 AI Configuration for Development
 
-## Choose your configuration Choose your configuration
+## 🎯 Choose your configuration
 
 ### Popular IDEs
 
@@ -9,18 +9,18 @@
 # Copy Cursor configuration
 cp -r .ai-config/examples/cursor-rules/ .cursor/rules/
 ```
-- - Integrated artificial intelligence
-- - Multi-file context understanding
-- - Configuration with `.mdc` files
+- ✅ Integrated artificial intelligence
+- ✅ Multi-file context understanding
+- ✅ Configuration with `.mdc` files
 
 #### VS Code + Copilot
 ```bash
 # Copy VS Code configuration
 cp -r .ai-config/examples/vscode-settings/ .vscode/
 ```
-- - Large extension ecosystem
-- - Integrated GitHub Copilot
-- - Configuration with `settings.json`
+- ✅ Large extension ecosystem
+- ✅ Integrated GitHub Copilot
+- ✅ Configuration with `settings.json`
 
 #### Windsurf (new)
 ```bash
@@ -45,7 +45,7 @@ cp -r .ai-config/examples/vscode-settings/ .vscode/
 - Inline suggestions in IDE
 - Native integration with VS Code
 
-## Quick Configuration Quick Configuration
+## 🚀 Quick Configuration
 
 ### Step 1: Choose IDE
 Copy your IDE configuration from `.ai-config/examples/`
