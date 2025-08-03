@@ -1,0 +1,29 @@
+{
+  "name": "ai-starter-kit-template",
+  "version": "1.0.0",
+  "description": "Template générique pour le développement assisté par intelligence artificielle",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'AI Starter Kit Template - Voir SETUP.md pour la configuration'",
+    "setup": "echo 'Configuration en cours...' && node scripts/setup.js",
+    "test": "echo 'Tests non configurés - Ajoutez vos tests ici'"
+  },
+  "keywords": [
+    "ai",
+    "template",
+    "development",
+    "cursor",
+    "vscode",
+    "windsurf"
+  ],
+  "author": "jaz-on",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz-on/ai-starter-kit-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaz-on/ai-starter-kit-template/issues"
+  },
+  "homepage": "https://github.com/jaz-on/ai-starter-kit-template#readme"
+} 

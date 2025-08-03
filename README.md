@@ -1,4 +1,4 @@
-# AI Starter Kit
+# AI Starter Kit Template
 
 Template générique pour le développement assisté par intelligence artificielle.
 
@@ -56,7 +56,7 @@ Ce template est optimisé pour travailler avec :
 
 ### Création d'un nouveau projet
 ```bash
-gh repo create mon-projet --template username/ai-starter-kit --private --clone
+gh repo create mon-projet --template jaz-on/ai-starter-kit-template --private --clone
 cd mon-projet
 ```
 
