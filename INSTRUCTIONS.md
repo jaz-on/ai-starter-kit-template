@@ -13,7 +13,6 @@ Always read `_docs/onboarding.md` first, then select relevant documents.
 ### Additional procedures
 - `_docs/how-to-plan.md` - How to write an implementation plan
 - `_docs/refactoring-principles.md` - Refactoring principles
-- `_docs/optimization-principles.md` - Optimization principles based on InstaFed analysis
 
 ### Project documentation
 - `_context/project-brief.md` - Initial brief and objectives
