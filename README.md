@@ -2,30 +2,46 @@
 
 Generic template for AI-assisted development.
 
+
+> **Note:** This repository is maintained by a French developer. For practical reasons, most files are in English, but the template is designed to support both English and French projects. See [INTERNATIONALIZATION.md](INTERNATIONALIZATION.md) for detailed language guidelines.
 ---
 
 ## 📋 Table of Contents
 
+- [AI Starter Kit Template](#ai-starter-kit-template)
+  - [📋 Table of Contents](#-table-of-contents)
 - [English Version](#english-version)
-  - [Quick Start](#-quick-start)
-  - [Project Structure](#-project-structure)
-  - [AI-Assisted Development](#-ai-assisted-development)
-  - [Documentation](#-documentation)
-  - [Features](#-features)
-  - [Usage](#-usage)
-  - [Contributing](#-contributing)
-  - [References](#-references)
-  - [License](#-license)
+  - [🚀 Quick Start](#-quick-start)
+  - [📁 Project Structure](#-project-structure)
+  - [🤖 AI-Assisted Development](#-ai-assisted-development)
+    - [IDEs](#ides)
+    - [LLMs](#llms)
+  - [📚 Documentation](#-documentation)
+  - [🛠 Features](#-features)
+  - [🎯 Usage](#-usage)
+    - [Creating a new project](#creating-a-new-project)
+    - [Cursor configuration](#cursor-configuration)
+    - [VS Code configuration](#vs-code-configuration)
+  - [🤝 Contributing](#-contributing)
+  - [📚 References](#-references)
+    - [Primary source](#primary-source)
+  - [📄 License](#-license)
 - [Version Française](#version-française)
-  - [Démarrage rapide](#-démarrage-rapide)
-  - [Structure du projet](#-structure-du-projet)
-  - [Développement assisté par IA](#-développement-assisté-par-ia)
-  - [Documentation](#-documentation-1)
-  - [Fonctionnalités](#-fonctionnalités)
-  - [Utilisation](#-utilisation)
-  - [Contribution](#-contribution)
-  - [Références](#-références)
-  - [Licence](#-licence)
+  - [🚀 Démarrage rapide](#-démarrage-rapide)
+  - [📁 Structure du projet](#-structure-du-projet)
+  - [🤖 Développement assisté par IA](#-développement-assisté-par-ia)
+    - [IDEs](#ides-1)
+    - [LLMs](#llms-1)
+  - [📚 Documentation](#-documentation-1)
+  - [🛠 Fonctionnalités](#-fonctionnalités)
+  - [🎯 Utilisation](#-utilisation)
+    - [Création d'un nouveau projet](#création-dun-nouveau-projet)
+    - [Configuration Cursor](#configuration-cursor)
+    - [Configuration VS Code](#configuration-vs-code)
+  - [🤝 Contribution](#-contribution)
+  - [📚 Références](#-références)
+    - [Source principale](#source-principale)
+  - [📄 Licence](#-licence)
 
 ---
 
@@ -112,7 +128,7 @@ This template is generic and adaptable. Feel free to :
 ## 📚 References
 
 ### Primary source
-This template is inspired by ["Vibe Coder sur Visual Studio Code avec Copilot"](https://www.alsacreations.com/tuto/lire/1956-Vibe-Coder-sur-Visual-Studio-Code-avec-Copilot.html) by the Alsacréations team, a structured and proven methodology for AI-assisted development.
+This template is inspired by ["Vibe Coder sur Visual Studio Code avec Copilot"](https://www.alsacreations.com/tuto/lire/1956-Vibe-Coder-sur-Visual-Studio-Code-avec-Copilot.html) (post in French) by the Alsacréations team, a structured and proven methodology for AI-assisted development.
 
 ## 📄 License
 
