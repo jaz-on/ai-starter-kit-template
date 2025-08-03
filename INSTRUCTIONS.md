@@ -28,9 +28,10 @@ Always read `_docs/onboarding.md` first, then select relevant documents.
 - Use **English** for API documentation and technical specifications
 
 **For project documentation and context:**
-- Use **French** for project briefs, business requirements, and user-facing documentation
-- Use **French** for planning documents and project management
-- Use **French** for user stories and acceptance criteria
+- Use **English** for project briefs, business requirements, and user-facing documentation
+- Use **English** for planning documents and project management
+- Use **English** for user stories and acceptance criteria
+- **Exception**: Use local language (French in our case) for context or documentation if the project is not international or for contributor convenience
 
 **For AI interactions:**
 - **Claude/ChatGPT**: Use the language that best matches your project context
@@ -44,7 +45,7 @@ Always read `_docs/onboarding.md` first, then select relevant documents.
 | README.md | Bilingual (EN/FR) | English first, then French |
 | INSTRUCTIONS.md | English | Technical instructions |
 | SETUP.md | English | Configuration guides |
-| _context/*.md | French | Project context and briefs |
+| _context/*.md | English | Project context and briefs |
 | _docs/*.md | English | Technical documentation |
 | Code files | English | Comments and documentation |
 | package.json | English | Standard format |
@@ -56,3 +57,12 @@ Always read `_docs/onboarding.md` first, then select relevant documents.
 2. **Context**: Use the language that best serves the intended audience
 3. **AI Optimization**: Consider which language works best with your AI tools
 4. **Documentation**: Keep language choices documented and consistent across the project
+5. **Flexibility**: Allow local language for convenience when project is not international
+
+### Migration Guidelines
+
+When converting existing files:
+1. Start with the most important files (README, INSTRUCTIONS)
+2. Update file headers to indicate language preference
+3. Add language indicators in file names if needed (e.g., `README_en.md`, `README_fr.md`)
+4. Update all cross-references and links
