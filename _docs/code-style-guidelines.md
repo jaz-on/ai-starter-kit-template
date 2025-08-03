@@ -27,5 +27,32 @@
 - Use explicit names to help AI understand context
 - Structure code logically to facilitate AI assistance
 
----
-*Generic template - adapt according to your stack*
+## KISS Principle (Keep It Simple, Stupid)
+- **Simplicity first** : Avoid unnecessary complexity
+- **Readable code** : Prioritize clarity over cleverness
+- **Direct functionality** : Every line of code should have a clear purpose
+- **Easy maintenance** : Code should be easy to understand and modify
+
+## Modularity and Reusability
+- **Specialized modules** : Divide code into coherent logical units
+- **Pure functions** : Create reusable and testable functions
+- **Composition** : Assemble simple components rather than creating monoliths
+- **Separation of concerns** : Each module has a specific function
+
+## Performance Optimizations
+- **Smart cache** : Avoid repeated DOM queries
+- **Memory management** : Automatic cleanup of resources
+- **Optimized rendering** : Minimal visual effects
+- **Robust validation** : Data verification
+
+## Error Handling
+- **Error types** : NETWORK, VALIDATION, PROCESSING, MEMORY
+- **Automatic recovery** based on error type
+- **User-friendly messages** : Clear and adapted explanations
+- **Detailed logging** for debugging
+
+## Avoid Common Pitfalls
+- **Minimal dependencies** : Critically evaluate each dependency
+- **Unnecessary complexity** : Simple solutions and appropriate patterns
+- **Code obesity** : Short functions and elimination of redundancies
+- **Over-engineering** : Prefer native solutions

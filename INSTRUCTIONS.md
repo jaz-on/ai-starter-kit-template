@@ -13,6 +13,7 @@ Always read `_docs/onboarding.md` first, then select relevant documents.
 ### Additional procedures
 - `_docs/how-to-plan.md` - How to write an implementation plan
 - `_docs/refactoring-principles.md` - Refactoring principles
+- `_docs/optimization-principles.md` - Optimization principles based on InstaFed analysis
 
 ### Project documentation
 - `_context/project-brief.md` - Initial brief and objectives
@@ -66,3 +67,26 @@ When converting existing files:
 2. Update file headers to indicate language preference
 3. Add language indicators in file names if needed (e.g., `README_en.md`, `README_fr.md`)
 4. Update all cross-references and links
+
+## Optimization Guidelines (Based on InstaFed Analysis)
+
+### KISS Principle
+- **Simplicity first** : Avoid unnecessary complexity
+- **Readable code** : Prioritize clarity over cleverness
+- **Direct functionality** : Every line of code should have a clear purpose
+
+### Modular Architecture
+- **Specialized modules** : EventManager, DOMUtils, ValidationUtils, ErrorHandler
+- **Separation of concerns** : Each module has a specific function
+- **Reusable components** : Create functions that can be used multiple times
+
+### Performance Optimization
+- **Smart cache** : Avoid repeated DOM queries
+- **Memory management** : Automatic cleanup of resources
+- **Error handling** : Advanced error recovery systems
+
+### Quality Metrics
+- **Code size** : Target 25-30% reduction
+- **Global functions** : Target 40% reduction
+- **DOM queries** : Target 60% reduction
+- **Memory usage** : Target 40% reduction
