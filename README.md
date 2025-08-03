@@ -3,7 +3,7 @@
 Generic template for AI-assisted development.
 
 
-> **Note:** This repository is maintained by a French developer. For practical reasons, most files are in English, but the template is designed to support both English and French projects. See [INTERNATIONALIZATION.md](INTERNATIONALIZATION.md) for detailed language guidelines.
+> **Note:** This repository is maintained by a French contributor. For practical reasons, most files are in English to follow industry standards (code in English, technical notes in English, etc.), but the template is designed to support multiple languages for content and prompts. **Adapted approach:** Native language + English standard. **Not adapted:** English-only approach.
 ---
 
 ## 📋 Table of Contents
