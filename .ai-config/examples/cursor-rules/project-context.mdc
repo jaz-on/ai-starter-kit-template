@@ -1,0 +1,21 @@
+---
+description: Contexte spécifique au projet
+globs: ["**/*"]
+alwaysApply: false
+---
+
+# Contexte du projet
+
+## Stack technique
+- [À compléter selon votre projet]
+
+## Architecture
+- [À décrire selon votre projet]
+
+## Références importantes
+- _context/project-brief.md : Contexte initial
+- _context/current-state.md : État actuel
+- _docs/onboarding.md : Guide d'intégration
+
+@_context/project-brief.md
+@_context/current-state.md

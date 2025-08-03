@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "github.copilot-chat",
+    "ms-vscode.vscode-ai",
+    "ms-vscode.vscode-markdown"
+  ]
+}

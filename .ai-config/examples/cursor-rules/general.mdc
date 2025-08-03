@@ -1,0 +1,19 @@
+---
+description: Règles générales de développement  
+alwaysApply: true
+---
+
+# Règles générales
+
+- Toujours lire INSTRUCTIONS.md avant de commencer
+- Suivre le principe SRP (Single Responsibility Principle)
+- Privilégier les fonctions courtes et bien nommées
+- Éviter la duplication de code
+- Commenter uniquement ce qui n'est pas évident
+- Utiliser des noms de variables explicites
+
+## Workflow recommandé
+1. Lire la documentation dans _docs/
+2. Vérifier l'état actuel dans _context/
+3. Créer un plan dans _plans/ si nécessaire
+4. Implémenter en suivant les conventions
